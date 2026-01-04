@@ -250,7 +250,7 @@ python scripts/plot_compression_results.py
 
 ## 作者
 
-CS2602 课程作业
+Jiamin Liu
 
 ## 致谢
 
